@@ -2,27 +2,10 @@
 
 ### About Me
 
-I'm **Nomin Ganzorig** (or _nemo_ 🐠), a senior at **Rice University** pursuing a **B.S. in Computer Science** and **Statistics**.  
-I first discovered coding when I arrived at college from Mongolia, and I've loved it ever since.
+My name is Nomin Ganzorig (or nemo), and I am a senior at Rice University pursuing a B.S. in Computer Science and Statistics. I discovered coding when I first arrived at college from Mongolia 🇲🇳, and it quickly became a passion that has shaped my academic, professional, and personal journey.
 
-### Technical Interests
+I am interested in a wide range of technical areas, including full-stack and backend web and mobile development, machine learning and artificial intelligence, and data science.
 
-- 💻 Full-stack & backend web/mobile development
-- 🤖 Machine Learning & AI
-- 📊 Data Science & Analytics
+Outside of academics and technology, I enjoy running, visiting cafes, thrifting, doing creative and artistic projects, cooking, and exploring the city on my scooter.
 
-### Outside of Tech
-
-When I’m not coding, you’ll probably find me:
-
-- 🏃 Running
-- ☕ Cafe-hopping
-- 🛍️ Thrifting
-- 🎨 Crafting & making art
-- 🍳 Cooking
-- 🛴 Scooting around town
-
-### 🌐 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/nominganzorig)
-  or email me at: nemokyu23@gmail.com or ng53@rice.edu
+You can find me on LinkedIn: www.linkedin.com/in/nominganzorig
